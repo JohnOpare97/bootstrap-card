@@ -1,0 +1,80 @@
+.card-img-top{
+    width: 50px;
+    margin-left: 20px;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+    margin-bottom: 20%;
+}
+
+#first{
+border-top-right-radius: 0%;
+border-bottom-right-radius: 0%;
+background-color: darkorange;
+height: 350px;
+}
+
+#first button{
+color: darkorange;
+border: darkorange;
+width: 200px;
+height: 25%;
+border-radius: 40%;
+}
+
+#first button:hover{
+color:white;
+background: darkorange;
+border: solid white;
+}
+
+#second{
+border-top-left-radius: 0%;
+border-top-right-radius: 0%;
+border-bottom-left-radius: 0%;
+border-bottom-right-radius: 0%;
+background: darkcyan;
+height: 350px;
+}
+
+#second button{
+    width: 200px;
+    height: 25%;
+    border-radius: 40%;
+    border:  darkcyan;
+    color:  darkcyan;
+    
+
+}
+
+#second button:hover{
+color: white;
+background: darkcyan;
+border:solid white;
+}
+
+#third{
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 0%;
+    background: rgb(0, 71, 71);
+    height: 350px;
+}
+
+#third button{
+    width: 200px;
+    height: 25%;
+    border-radius: 40%;
+    color: rgb(0, 71, 71);
+    border: rgb(0, 71, 71);
+}
+
+#third button:hover{
+    color: white;
+    border:solid white;
+    background: rgb(0, 71, 71);
+}
